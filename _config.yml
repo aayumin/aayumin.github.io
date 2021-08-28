@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: aayumin
   google_plus:
   instagram:
   keybase:
-  linkedin:  
+  linkedin:  https://www.linkedin.com/in/yumin-lim-b129ba17b/
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
@@ -59,4 +59,3 @@ exclude:
   - "*.gem"
   - "LICENSE"
   - "READE.md"
-  - "screenshot.png"
